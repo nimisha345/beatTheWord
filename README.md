@@ -6,14 +6,11 @@
 
 Run index.html in a browser
 
-Try it - [WordBeater Game](https://bradtraversy.github.io/wordbeater)
-
 ## App Info
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Nimisha Tulera
 
 ### Version
 
